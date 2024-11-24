@@ -1,4 +1,3 @@
-![FreePalestine](./extra/palestine.png)
 
 # Discount Bandit
 Discount Bandit is a price tracker across multiple shopping websites simultaneously, and get notified when an item reaches the price you desire, so you don't have to keep checking shop stores for price changes.
